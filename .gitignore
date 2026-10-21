@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+scan_runs/
+scan_history/
+security_report.md
+.gitleaks_report_*.json
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
